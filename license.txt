@@ -1,0 +1,11 @@
+Model Information:
+* title:	String Loop
+* source:	https://sketchfab.com/3d-models/string-loop-0c997476e32a4591be3e2df2b802c5b8
+* author:	soughtdesign (https://sketchfab.com/soughtdesign)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "String Loop" (https://sketchfab.com/3d-models/string-loop-0c997476e32a4591be3e2df2b802c5b8) by soughtdesign (https://sketchfab.com/soughtdesign) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
